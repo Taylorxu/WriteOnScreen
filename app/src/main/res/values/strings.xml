@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">电子签名</string>
+    <string name="bt_reset">重写</string>
+</resources>
